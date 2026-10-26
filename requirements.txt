@@ -1,4 +1,7 @@
 # Core LLM + LangChain ecosystem
+fastapi
+uvicorn
+
 langchain>=0.2.0
 langchain-core>=0.2.0
 langchain-community>=0.2.0
